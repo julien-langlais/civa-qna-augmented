@@ -1,0 +1,11 @@
+version: "2.0"
+
+nlu:
+- intent: faq/1
+  examples: |
+    - What is your name?
+    
+- intent: faq/2
+  examples: |
+    - What's the weather like today?
+

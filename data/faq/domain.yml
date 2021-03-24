@@ -1,0 +1,17 @@
+version: "2.0"
+
+intents:
+  - faq
+
+responses:
+  utter_faq/1:
+    - text: Oh yeah, I am called the retrieval bot.
+
+  utter_faq/2:
+    - text: Oh, it does look sunny right now in Berlin.
+      image: "https://i.imgur.com/vwv7aHN.png"
+    - text: I am not sure of the whole week but I can see the sun is out today.
+
+session_config:
+  session_expiration_time: 60  # value in minutes
+  carry_over_slots_to_new_session: true

@@ -1,0 +1,7 @@
+version: "2.0"
+
+rules:
+- rule: Response with a faq utterance whenever user indulges in some faq
+  steps:
+  - intent: faq
+  - action: utter_faq
