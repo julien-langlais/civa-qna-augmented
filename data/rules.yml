@@ -12,7 +12,7 @@ rules:
   - intent: bot_challenge
   - action: utter_iamabot
 
-- rule: Response with a chitchat utterance whenever user indulges in some chitchat
+- rule: Response with a faq utterance whenever user indulges in some faq
   steps:
-  - intent: chitchat
-  - action: utter_chitchat
+  - intent: faq
+  - action: utter_faq

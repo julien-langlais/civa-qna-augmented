@@ -7,7 +7,8 @@ pipeline:
     entity_recognition: False
     epochs: 50
   - name: ResponseSelector
-    epochs: 50
+    epochs: 100
+    retrieval_intent: faq
 
 policies:
   - name: TEDPolicy
