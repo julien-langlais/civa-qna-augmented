@@ -1,0 +1,15 @@
+version: "2.0"
+
+intents:
+  - faq
+
+responses:
+  utter_faq/1:
+    - text: On m'appelle le bot standard.
+
+  utter_faq/2:
+    - text: Il fait beau aujourd'hui.
+    
+
+
+

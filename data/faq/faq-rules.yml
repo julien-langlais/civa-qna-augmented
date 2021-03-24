@@ -1,0 +1,21 @@
+version: "2.0"
+
+rules:
+- rule: response great whenever the user agree to the fact that the anwser satisties his request
+  steps:
+  - intent: faq
+  - action: utter_faq
+  - action: utter_did_that_help
+
+- rule: response great whenever the user agree to the fact that the anwser satisties his request
+  steps:
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_super
+
+- rule: ask to reformulate whenever the answer is not satisfying
+  steps:
+  
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_reformulate
