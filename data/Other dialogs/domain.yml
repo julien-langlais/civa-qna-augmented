@@ -24,7 +24,7 @@ responses:
   - text: "cela vous a-t-il aidé ?"
 
   utter_super:
-  - text: "heureux d'avoir pu aidé"
+  - text: "Top"
   - text: "ravis de l'apprendre"
   - text: "super alors"
 

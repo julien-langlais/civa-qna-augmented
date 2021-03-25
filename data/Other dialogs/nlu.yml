@@ -15,10 +15,8 @@ nlu:
     - ciao
     - a plus tard
     - au revoir
-    - bonne nuit
     - bye
     - a plus tard
-    - bonn ejournée
     - bye bye
 
 - intent: affirm
@@ -31,11 +29,12 @@ nlu:
     - c'est cool
     - oui, tout à fait
     - exact
+    - bien
 
 - intent: deny
   examples: |
-    - non, pas vraiment
-    - quoi ?
+    - c'est pas ma question
+    - mais non
     - non
     - pas du tout
     - absolument pas

@@ -5,14 +5,14 @@ pipeline:
   - name: "CountVectorsFeaturizer"
   - name: "DIETClassifier"
     entity_recognition: False
-    epochs: 50
+    epochs: 200
   - name: ResponseSelector
-    epochs: 100
+    epochs: 200
     retrieval_intent: faq
 
 policies:
   - name: TEDPolicy
-    max_history: 5
+    max_history: 2
     epochs: 100
   - name: MemoizationPolicy
   - name: RulePolicy
