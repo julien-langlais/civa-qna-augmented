@@ -2,9 +2,10 @@
 #-*- coding: UTF-8 -*-
 
 import pandas as pd
+#import unicodedata
 path = r"data/data-base-source/QNA_for_bots.csv"
 data_base = pd.read_csv(path,  sep=";", encoding="latin3")
-with open("data/faq/faq-nlu.yml", "wt", encoding="latin3") as f:
+with open("data/faq/faq-nlu.yml", "wt", encoding="utf-8") as f:
     f.write('version: "2.0" \n')
     f.write('\n')
     f.write("nlu:\n")
@@ -14,10 +15,11 @@ with open("data/faq/faq-nlu.yml", "wt", encoding="latin3") as f:
         f.write("  examples: |\n")
         for row in range(len(data_base_pivot)):
             text = str(data_base_pivot.iloc[row,1])
+            text = text.encode('utf8','ignore').decode('utf8').replace('\x92',"'").replace('\x9c','oe').replace('\x80','€')
             f.write(f"   - {text}\n")
         f.write("\n")
 
-with open("data/faq/faq-domain.yml", "wt", encoding="latin3") as f:
+with open("data/faq/faq-domain.yml", "wt", encoding="utf-8") as f:
     f.write('version: "2.0" \n')
     f.write('\n')
     f.write("intents:\n") 
@@ -29,5 +31,6 @@ with open("data/faq/faq-domain.yml", "wt", encoding="latin3") as f:
         f.write("  utter_faq/" + str(num_pivot) +":" "\n")
         for row in range(len(data_base_pivot)):
             text = '"'+ str(data_base_pivot.iloc[row,2]) + '"'
+            text = text.encode('utf8', 'ignore').decode().replace('\x92',"'").replace('\x9c','oe').replace('\x80','€')
             f.write(f"    - text: {text}\n")
         f.write("\n")

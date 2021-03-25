@@ -3,7 +3,7 @@ version: "2.0"
 nlu:
 - intent: faq/1
   examples: |
-   - Est-ce qu’il faut un visa ?
+   - Est-ce qu'il faut un visa ?
 
 - intent: faq/2
   examples: |
@@ -11,7 +11,7 @@ nlu:
 
 - intent: faq/3
   examples: |
-   - Est-ce qu’un test PCR est obligatoire ?
+   - Est-ce qu'un test PCR est obligatoire ?
 
 - intent: faq/4
   examples: |
@@ -19,39 +19,39 @@ nlu:
 
 - intent: faq/5
   examples: |
-   - Est- ce que je pourrais utiliser ma carte de crédit là-bas?? 
+   - Est- ce que je pourrais utiliser ma carte de crÃ©dit lÃ -bas?? 
 
 - intent: faq/6
   examples: |
-   - Est-ce qu'il y a des frais de retrait supplémentaires ?
+   - Est-ce qu'il y a des frais de retrait supplÃ©mentaires ?
 
 - intent: faq/7
   examples: |
-   - Est-ce qu'il faut prévoir de l'argent liquide ?
+   - Est-ce qu'il faut prÃ©voir de l'argent liquide ?
 
 - intent: faq/8
   examples: |
-   - Est-ce que je peux annuler le voyage à tout moment? 
+   - Est-ce que je peux annuler le voyage Ã  tout moment? 
 
 - intent: faq/9
   examples: |
-   - Quelle est la monnaie à Bali ?
+   - Quelle est la monnaie Ã  Bali ?
 
 - intent: faq/10
   examples: |
-   - Quel est le mode de remboursement en cas d’annulation du voyage ?
+   - Quel est le mode de remboursement en cas d'annulation du voyage ?
 
 - intent: faq/11
   examples: |
-   - Quelles sont les préconisations sanitaires ?
+   - Quelles sont les prÃ©conisations sanitaires ?
 
 - intent: faq/12
   examples: |
-   - Comment modifier ma réservation ? 
+   - Comment modifier ma rÃ©servation ? 
 
 - intent: faq/13
   examples: |
-   - Comment annuler ma réservation ? 
+   - Comment annuler ma rÃ©servation ? 
 
 - intent: faq/14
   examples: |
@@ -59,11 +59,11 @@ nlu:
 
 - intent: faq/15
   examples: |
-   - Est-ce qu'il y a un équivalent de carte européenne d'assurance maladie à l'étranger ?
+   - Est-ce qu'il y a un Ã©quivalent de carte europÃ©enne d'assurance maladie Ã  l'Ã©tranger ?
 
 - intent: faq/16
   examples: |
-   - Où est-ce que je peux trouver une assurance voyage?
+   - OÃ¹ est-ce que je peux trouver une assurance voyage?
 
 - intent: faq/17
   examples: |
@@ -71,63 +71,63 @@ nlu:
 
 - intent: faq/18
   examples: |
-   - Quels sont les hôtels recommandés ?
+   - Quels sont les hÃ´tels recommandÃ©s ?
 
 - intent: faq/19
   examples: |
-   - Quels sont les moyens de paiement pour régler mon voyage ? 
+   - Quels sont les moyens de paiement pour rÃ©gler mon voyage ? 
 
 - intent: faq/20
   examples: |
-   - Est-ce qu'il y a des voyages organisés ?
+   - Est-ce qu'il y a des voyages organisÃ©s ?
 
 - intent: faq/21
   examples: |
-   - Est-il possible de réserver un guide touristique sur place ?
+   - Est-il possible de rÃ©server un guide touristique sur place ?
 
 - intent: faq/22
   examples: |
-   - Est-il recommandé d'effectuer un change de monnaie avant le voyage ? 
+   - Est-il recommandÃ© d'effectuer un change de monnaie avant le voyage ? 
 
 - intent: faq/23
   examples: |
-   - Comment faire pour avoir un hôtel avec une connexion internet (wifi) ? 
+   - Comment faire pour avoir un hÃ´tel avec une connexion internet (wifi) ? 
 
 - intent: faq/24
   examples: |
-   - Est-ce qu'il y a la 4G à Bali ? 
+   - Est-ce qu'il y a la 4G Ã  Bali ? 
 
 - intent: faq/25
   examples: |
-   - Est-ce qu'il y a des forfaits téléphoniques à Bali ?
+   - Est-ce qu'il y a des forfaits tÃ©lÃ©phoniques Ã  Bali ?
 
 - intent: faq/26
   examples: |
-   - Combien coûte une semaine de séjour en moyenne sur place ?
+   - Combien coÃ»te une semaine de sÃ©jour en moyenne sur place ?
 
 - intent: faq/27
   examples: |
-   - Quel est le décalage horaire ?
+   - Quel est le dÃ©calage horaire ?
 
 - intent: faq/28
   examples: |
-   - Où trouver des comparateurs d'hôtel ?
+   - OÃ¹ trouver des comparateurs d'hÃ´tel ?
 
 - intent: faq/29
   examples: |
-   - Les animaux sont-ils autorisés dans les hôtels ? 
+   - Les animaux sont-ils autorisÃ©s dans les hÃ´tels ? 
 
 - intent: faq/30
   examples: |
-   - Que faut-il faire pour prolonger mon séjour sur place? 
+   - Que faut-il faire pour prolonger mon sÃ©jour sur place? 
 
 - intent: faq/31
   examples: |
-   - Quelle est la personne à contacter en cas de problème durant mon séjour ? 
+   - Quelle est la personne Ã  contacter en cas de problÃ¨me durant mon sÃ©jour ? 
 
 - intent: faq/32
   examples: |
-   - Quels médicaments puis-je prendre sans ordonnance à Bali ?
+   - Quels mÃ©dicaments puis-je prendre sans ordonnance Ã  Bali ?
 
 - intent: faq/33
   examples: |
@@ -135,19 +135,19 @@ nlu:
 
 - intent: faq/34
   examples: |
-   - Quels objets peuvent être utiles là-bas ?
+   - Quels objets peuvent Ãªtre utiles lÃ -bas ?
 
 - intent: faq/35
   examples: |
-   - Quels objets ne pas autorisés dans l'avion ?
+   - Quels objets ne pas autorisÃ©s dans l'avion ?
 
 - intent: faq/36
   examples: |
-   - Quelles sont les dimensions maximales d'un bagage à main dans l'avion ?
+   - Quelles sont les dimensions maximales d'un bagage Ã  main dans l'avion ?
 
 - intent: faq/37
   examples: |
-   - Quelles sont les dimensions maximales des valises autorisées en soute dans l'avion ?
+   - Quelles sont les dimensions maximales des valises autorisÃ©es en soute dans l'avion ?
 
 - intent: faq/38
   examples: |
@@ -155,7 +155,7 @@ nlu:
 
 - intent: faq/39
   examples: |
-   - Quel est le prix d’un bagage supplémentaire en soute ?
+   - Quel est le prix d'un bagage supplÃ©mentaire en soute ?
 
 - intent: faq/40
   examples: |
@@ -175,15 +175,15 @@ nlu:
 
 - intent: faq/44
   examples: |
-   - Quelle compagnie aérienne est recommandée ?
+   - Quelle compagnie aÃ©rienne est recommandÃ©e ?
 
 - intent: faq/45
   examples: |
-   - A quelle heure je dois me présenter à l’aéroport pour avoir mon vol ?
+   - A quelle heure je dois me prÃ©senter Ã  l'aÃ©roport pour avoir mon vol ?
 
 - intent: faq/46
   examples: |
-   - Comment être indemnisé si mon bagage a été perdu ou endommagé pendant le trajet en avion ?
+   - Comment Ãªtre indemnisÃ© si mon bagage a Ã©tÃ© perdu ou endommagÃ© pendant le trajet en avion ?
 
 - intent: faq/47
   examples: |
@@ -191,11 +191,11 @@ nlu:
 
 - intent: faq/48
   examples: |
-   - Quels sont les frais supplémentaire pour voyager avec mon animal ? 
+   - Quels sont les frais supplÃ©mentaire pour voyager avec mon animal ? 
 
 - intent: faq/49
   examples: |
-   - Comment savoir si mon vol a été modifié ? 
+   - Comment savoir si mon vol a Ã©tÃ© modifiÃ© ? 
 
 - intent: faq/50
   examples: |
@@ -203,39 +203,39 @@ nlu:
 
 - intent: faq/51
   examples: |
-   - Aura-t-on un médecin dans l'avion ? 
+   - Aura-t-on un mÃ©decin dans l'avion ? 
 
 - intent: faq/52
   examples: |
-   - Est-il possible d'avoir des plats différents en fonction de mes allergies ? 
+   - Est-il possible d'avoir des plats diffÃ©rents en fonction de mes allergies ? 
 
 - intent: faq/53
   examples: |
-   - Est-ce que quelqu'un va venir me chercher à l'aéroport ?
+   - Est-ce que quelqu'un va venir me chercher Ã  l'aÃ©roport ?
 
 - intent: faq/54
   examples: |
-   - Les hôtels fournissent ils un moyen de transport entre l'aéroport et  l'hotel ?
+   - Les hÃ´tels fournissent ils un moyen de transport entre l'aÃ©roport et  l'hotel ?
 
 - intent: faq/55
   examples: |
-   - Combien coûte un taxi pour aller à l'aéroport ?
+   - Combien coÃ»te un taxi pour aller Ã  l'aÃ©roport ?
 
 - intent: faq/56
   examples: |
-   - Quelles sont les langues les plus parlées là-bas ?
+   - Quelles sont les langues les plus parlÃ©es lÃ -bas ?
 
 - intent: faq/57
   examples: |
-   - Quelles sont les activités recommandées à faire à Bali?? 
+   - Quelles sont les activitÃ©s recommandÃ©es Ã  faire Ã  Bali??Â 
 
 - intent: faq/58
   examples: |
-   - Est-ce qu'il y a des comportements éviter ?
+   - Est-ce qu'il y a des comportements Ã©viter ?
 
 - intent: faq/59
   examples: |
-   - Quels types d’hébergement atypiques puis-je trouver sur place et louer ?
+   - Quels types d'hÃ©bergement atypiques puis-je trouver sur place et louer ?
 
 - intent: faq/60
   examples: |
@@ -243,7 +243,7 @@ nlu:
 
 - intent: faq/61
   examples: |
-   - Est-ce qu’il faut réserver les activités à l’avance ?
+   - Est-ce qu'il faut rÃ©server les activitÃ©s Ã  l'avance ?
 
 - intent: faq/62
   examples: |
@@ -251,15 +251,15 @@ nlu:
 
 - intent: faq/63
   examples: |
-   - Quel est le budget moyen par activité ?
+   - Quel est le budget moyen par activitÃ© ?
 
 - intent: faq/64
   examples: |
-   - Quelles sont  les activités proposées dans l'hotel ?
+   - Quelles sont  les activitÃ©s proposÃ©es dans l'hotel ?
 
 - intent: faq/65
   examples: |
-   - Les repas sont-ils inclus dans le forfait de l’hôtel ?
+   - Les repas sont-ils inclus dans le forfait de l'hÃ´tel ?
 
 - intent: faq/66
   examples: |
@@ -267,13 +267,13 @@ nlu:
 
 - intent: faq/67
   examples: |
-   - Quelles sont les évènement / fêtes culturelles ?
+   - Quelles sont les Ã©vÃ¨nement / fÃªtes culturelles ?
 
 - intent: faq/68
   examples: |
-   - Faut-il un permis particulier pour louer un deux roues à Bali ?
+   - Faut-il un permis particulier pour louer un deux roues Ã  Bali ?
 
 - intent: faq/69
   examples: |
-   - Il y a-t-il des lieux de rencontres pour des étrangers ?
+   - Il y a-t-il des lieux de rencontres pour des Ã©trangers ?
 
