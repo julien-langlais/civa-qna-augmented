@@ -1,7 +1,7 @@
 version: "2.0"
 
 rules:
-- rule: response great whenever the user agree to the fact that the anwser satisties his request
+- rule: after each response to faq ask if uttered well
   steps:
   - intent: faq
   - action: utter_faq
@@ -22,5 +22,6 @@ rules:
 
 - rule: the user ask another question after his previous one
   steps:
+  - action: utter_faq
   - intent: faq
   - action: utter_faq
