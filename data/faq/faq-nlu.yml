@@ -3,7 +3,7 @@ version: "2.0"
 nlu:
 - intent: faq/1
   examples: |
-   - Est-ce qu''il faut un [visa]("entity":visa) ?
+   - Est-ce qu'il faut un [visa]("entity":visa) ?
 
 - intent: faq/2
   examples: |
@@ -207,7 +207,7 @@ nlu:
 
 - intent: faq/52
   examples: |
-   - Comment va-t-on de l'[aéroport à l'hôtel]("entity":aéroport_hotel) ?
+   - Comment va-t-on de l'aéroport à l'hôtel ?
 
 - intent: faq/53
   examples: |
