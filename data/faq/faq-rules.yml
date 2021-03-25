@@ -19,3 +19,8 @@ rules:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_reformulate
+
+- rule: the user ask another question after his previous one
+  steps:
+  - intent: faq
+  - action: utter_faq
