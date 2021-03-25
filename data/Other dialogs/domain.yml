@@ -15,10 +15,10 @@ responses:
   - text: "Bonjour ça va ?"
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Au revoir"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Je suis un bot créé grâce à Rasa par Talan"
 
   utter_did_that_help:
   - text: "cela vous a-t-il aidé ?"

@@ -3,7 +3,7 @@ version: "2.0"
 nlu:
 - intent: faq/1
   examples: |
-   - Est-ce quil faut un visa ?
+   - Est-ce qu’il faut un visa ?
 
 - intent: faq/2
   examples: |
@@ -11,7 +11,7 @@ nlu:
 
 - intent: faq/3
   examples: |
-   - Est-ce quun test PCR est obligatoire ?
+   - Est-ce qu’un test PCR est obligatoire ?
 
 - intent: faq/4
   examples: |
@@ -19,39 +19,39 @@ nlu:
 
 - intent: faq/5
   examples: |
-   - Est- ce que je pourrais utiliser ma carte de credit la-bas?? 
+   - Est- ce que je pourrais utiliser ma carte de crédit là-bas?? 
 
 - intent: faq/6
   examples: |
-   - Est-ce qu'il y a des frais de retrait supplementaires ?
+   - Est-ce qu'il y a des frais de retrait supplémentaires ?
 
 - intent: faq/7
   examples: |
-   - Est-ce qu'il faut prevoir de l'argent liquide ?
+   - Est-ce qu'il faut prévoir de l'argent liquide ?
 
 - intent: faq/8
   examples: |
-   - Est-ce que je peux annuler le voyage a tout moment? 
+   - Est-ce que je peux annuler le voyage à tout moment? 
 
 - intent: faq/9
   examples: |
-   - Quelle est la monnaie a Bali ?
+   - Quelle est la monnaie à Bali ?
 
 - intent: faq/10
   examples: |
-   - Quel est le mode de remboursement en cas dannulation du voyage ?
+   - Quel est le mode de remboursement en cas d’annulation du voyage ?
 
 - intent: faq/11
   examples: |
-   - Quelles sont les preconisations sanitaires ?
+   - Quelles sont les préconisations sanitaires ?
 
 - intent: faq/12
   examples: |
-   - Comment modifier ma reservation ? 
+   - Comment modifier ma réservation ? 
 
 - intent: faq/13
   examples: |
-   - Comment annuler ma reservation ? 
+   - Comment annuler ma réservation ? 
 
 - intent: faq/14
   examples: |
@@ -59,11 +59,11 @@ nlu:
 
 - intent: faq/15
   examples: |
-   - Est-ce qu'il y a un equivalent de carte europeenne d'assurance maladie a l'etranger ?
+   - Est-ce qu'il y a un équivalent de carte européenne d'assurance maladie à l'étranger ?
 
 - intent: faq/16
   examples: |
-   - Ou est-ce que je peux trouver une assurance voyage?
+   - Où est-ce que je peux trouver une assurance voyage?
 
 - intent: faq/17
   examples: |
@@ -71,213 +71,209 @@ nlu:
 
 - intent: faq/18
   examples: |
-   - Quels sont les hotels recommandes ?
+   - Quels sont les hôtels recommandés ?
 
 - intent: faq/19
   examples: |
-   - Quels sont les moyens de paiement pour regler mon voyage ? 
+   - Quels sont les moyens de paiement pour régler mon voyage ? 
 
 - intent: faq/20
   examples: |
-   - Est-ce qu'il y a des voyages organises ?
+   - Est-ce qu'il y a des voyages organisés ?
 
 - intent: faq/21
   examples: |
-   - Est-il possible de reserver un guide touristique sur place ?
+   - Est-il possible de réserver un guide touristique sur place ?
 
 - intent: faq/22
   examples: |
-   - Est-il recommande d'effectuer un change de monnaie avant le voyage ? 
+   - Est-il recommandé d'effectuer un change de monnaie avant le voyage ? 
 
 - intent: faq/23
   examples: |
-   - Comment faire pour avoir un hotel avec une connexion internet (wifi) ? 
+   - Comment faire pour avoir un hôtel avec une connexion internet (wifi) ? 
 
 - intent: faq/24
   examples: |
-   - Est-ce qu'il y a la 4G a Bali ? 
+   - Est-ce qu'il y a la 4G à Bali ? 
 
 - intent: faq/25
   examples: |
-   - Est-ce qu'il y a des forfaits telephoniques a Bali ?
+   - Est-ce qu'il y a des forfaits téléphoniques à Bali ?
 
 - intent: faq/26
   examples: |
-   - Combien coute une semaine de sejour en moyenne sur place ?
+   - Combien coûte une semaine de séjour en moyenne sur place ?
 
 - intent: faq/27
   examples: |
-   - Quel est le decalage horaire ?
+   - Quel est le décalage horaire ?
 
 - intent: faq/28
   examples: |
-   - Ou trouver des comparateurs d'hotel ?
+   - Où trouver des comparateurs d'hôtel ?
 
 - intent: faq/29
   examples: |
-   - Les animaux sont-ils autorises dans les hotels ? 
+   - Les animaux sont-ils autorisés dans les hôtels ? 
 
 - intent: faq/30
   examples: |
-   - Que faut-il faire pour prolonger mon sejour sur place? 
+   - Que faut-il faire pour prolonger mon séjour sur place? 
 
 - intent: faq/31
   examples: |
-   - Quelle est la personne a contacter en cas de probleme durant mon sejour ? 
+   - Quelle est la personne à contacter en cas de problème durant mon séjour ? 
 
 - intent: faq/32
   examples: |
-   - nan
+   - Quels médicaments puis-je prendre sans ordonnance à Bali ?
 
 - intent: faq/33
   examples: |
-   - Quels medicaments puis-je prendre sans ordonnance a Bali ?
+   - Quelle est la saison en Juin ?
 
 - intent: faq/34
   examples: |
-   - Quelle est la saison en Juin ?
+   - Quels objets peuvent être utiles là-bas ?
 
 - intent: faq/35
   examples: |
-   - Quels objets peuvent etre utiles la-bas ?
+   - Quels objets ne pas autorisés dans l'avion ?
 
 - intent: faq/36
   examples: |
-   - Quels objets ne pas autorises dans l'avion ?
+   - Quelles sont les dimensions maximales d'un bagage à main dans l'avion ?
 
 - intent: faq/37
   examples: |
-   - Quelles sont les dimensions maximales d'un bagage a main dans l'avion ?
+   - Quelles sont les dimensions maximales des valises autorisées en soute dans l'avion ?
 
 - intent: faq/38
   examples: |
-   - Quelles sont les dimensions maximales des valises autorisees en soute dans l'avion ?
+   - Quel est le poids max de mon bagage dans l'avion ?
 
 - intent: faq/39
   examples: |
-   - Quel est le poids max de mon bagage dans l'avion ?
+   - Quel est le prix d’un bagage supplémentaire en soute ?
 
 - intent: faq/40
   examples: |
-   - Quel est le prix dun bagage supplementaire en soute ?
+   - Dois-je prendre de l'anti-moustique ?
 
 - intent: faq/41
   examples: |
-   - Dois-je prendre de l'anti-moustique ?
+   - Comment faire pour trouver des billets d'avion ?
 
 - intent: faq/42
   examples: |
-   - Comment faire pour trouver des billets d'avion ?
+   - Quel est le prix moyen du billet aller-retour France-Bali ?
 
 - intent: faq/43
   examples: |
-   - Quel est le prix moyen du billet aller-retour France-Bali ?
+   - Est-ce qu'il y a des vols directs ?
 
 - intent: faq/44
   examples: |
-   - Est-ce qu'il y a des vols directs ?
+   - Quelle compagnie aérienne est recommandée ?
 
 - intent: faq/45
   examples: |
-   - Quelle compagnie aerienne est recommandee ?
+   - A quelle heure je dois me présenter à l’aéroport pour avoir mon vol ?
 
 - intent: faq/46
   examples: |
-   - A quelle heure je dois me presenter a laeroport pour avoir mon vol ?
+   - Comment être indemnisé si mon bagage a été perdu ou endommagé pendant le trajet en avion ?
 
 - intent: faq/47
   examples: |
-   - Comment etre indemnise si mon bagage a ete perdu ou endommage pendant le trajet en avion ?
+   - Puis-je voyager en avion avec mes animaux ? 
 
 - intent: faq/48
   examples: |
-   - Puis-je voyager en avion avec mes animaux ? 
+   - Quels sont les frais supplémentaire pour voyager avec mon animal ? 
 
 - intent: faq/49
   examples: |
-   - Quels sont les frais supplementaire pour voyager avec mon animal ? 
+   - Comment savoir si mon vol a été modifié ? 
 
 - intent: faq/50
   examples: |
-   - Comment savoir si mon vol a ete modifie ? 
+   - Sous quel format vais-je recevoir mon billet ? 
 
 - intent: faq/51
   examples: |
-   - Sous quel format vais-je recevoir mon billet ? 
+   - Aura-t-on un médecin dans l'avion ? 
 
 - intent: faq/52
   examples: |
-   - Aura-t-on un medecin dans l'avion ? 
+   - Est-il possible d'avoir des plats différents en fonction de mes allergies ? 
 
 - intent: faq/53
   examples: |
-   - Est-il possible d'avoir des plats differents en fonction de mes allergies ? 
+   - Est-ce que quelqu'un va venir me chercher à l'aéroport ?
 
 - intent: faq/54
   examples: |
-   - Est-ce que quelqu'un va venir me chercher a l'aeroport ?
+   - Les hôtels fournissent ils un moyen de transport entre l'aéroport et  l'hotel ?
 
 - intent: faq/55
   examples: |
-   - Les hotels fournissent ils un moyen de transport entre l'aeroport et  l'hotel ?
+   - Combien coûte un taxi pour aller à l'aéroport ?
 
 - intent: faq/56
   examples: |
-   - Combien coute un taxi pour aller a l'aeroport ?
+   - Quelles sont les langues les plus parlées là-bas ?
 
 - intent: faq/57
   examples: |
-   - Quelles sont les langues les plus parlees la-bas ?
+   - Quelles sont les activités recommandées à faire à Bali?? 
 
 - intent: faq/58
   examples: |
-   - Quelles sont les activites recommandees a faire a Bali?? 
+   - Est-ce qu'il y a des comportements éviter ?
 
 - intent: faq/59
   examples: |
-   - Est-ce qu'il y a des comportements eviter ?
+   - Quels types d’hébergement atypiques puis-je trouver sur place et louer ?
 
 - intent: faq/60
   examples: |
-   - Quels types dhebergement atypiques puis-je trouver sur place et louer ?
+   - Quels sont les plats typiques de Bali ?
 
 - intent: faq/61
   examples: |
-   - Quels sont les plats typiques de Bali ?
+   - Est-ce qu’il faut réserver les activités à l’avance ?
 
 - intent: faq/62
   examples: |
-   - Est-ce quil faut reserver les activites a lavance ?
+   - Puis-je amener mes animaux de compagnie dans les lieux culturels ?
 
 - intent: faq/63
   examples: |
-   - Puis-je amener mes animaux de compagnie dans les lieux culturels ?
+   - Quel est le budget moyen par activité ?
 
 - intent: faq/64
   examples: |
-   - Quel est le budget moyen par activite ?
+   - Quelles sont  les activités proposées dans l'hotel ?
 
 - intent: faq/65
   examples: |
-   - Quelles sont  les activites proposees dans l'hotel ?
+   - Les repas sont-ils inclus dans le forfait de l’hôtel ?
 
 - intent: faq/66
   examples: |
-   - Les repas sont-ils inclus dans le forfait de lhotel ?
+   - Quels sont les endroits incourtounables de Bali ? 
 
 - intent: faq/67
   examples: |
-   - Quels sont les endroits incourtounables de Bali ? 
+   - Quelles sont les évènement / fêtes culturelles ?
 
 - intent: faq/68
   examples: |
-   - Quelles sont les evenement / fetes culturelles ?
+   - Faut-il un permis particulier pour louer un deux roues à Bali ?
 
 - intent: faq/69
   examples: |
-   - Faut-il un permis particulier pour louer un deux roues a Bali ?
-
-- intent: faq/70
-  examples: |
-   - Il y a-t-il des lieux de rencontres pour des etrangers ?
+   - Il y a-t-il des lieux de rencontres pour des étrangers ?
 
