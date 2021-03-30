@@ -1,5 +1,5 @@
 # https://hub.docker.com/r/rasa/rasa-sdk/tags
-FROM rasa/rasa-sdk:2.3.1
+FROM rasa/rasa-sdk:2.4.0
 
 COPY data /app/data
 
